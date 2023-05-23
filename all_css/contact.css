@@ -5,3 +5,24 @@
 h1{
     color: red;
 }
+
+form{
+    color: white;
+}
+
+#car{
+    color: white;
+}
+
+#text{
+    color: white;
+}
+.sub{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+a{
+    color: brown;
+    padding: 10px;
+}
